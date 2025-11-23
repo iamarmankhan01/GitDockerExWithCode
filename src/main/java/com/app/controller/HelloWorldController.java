@@ -8,7 +8,7 @@ public class HelloWorldController {
 	
 	@GetMapping("/message")
 	public String getMeggage() {	
-		return"Hello-World";
+		return"Hello-World Arman Khan";
 	}
 
 }
